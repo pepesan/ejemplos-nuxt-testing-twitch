@@ -1,8 +1,14 @@
 <template>
   <div>
-    <HelloWorld message="Hola"></HelloWorld>
+    <MiPrimerComponenteOptionsAPI>
+    </MiPrimerComponenteOptionsAPI>
+    <MiPrimerComponenteCompositionAPI>
+    </MiPrimerComponenteCompositionAPI>
   </div>
 </template>
 <script setup lang="ts">
-import HelloWorld from "~/components/HelloWorld.vue";
+import MiPrimerComponenteOptionsAPI
+  from "~/components/MiPrimerComponenteOptionsAPI.vue";
+import MiPrimerComponenteCompositionAPI
+  from "~/components/MiPrimerComponenteCompositionAPI.vue";
 </script>
