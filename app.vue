@@ -1,9 +1,14 @@
 <template>
   <div>
-    <MiPrimerComponenteOptionsAPI>
+    <!--HelloWorld></HelloWorld>
+    <HelloWorld message="valor"></HelloWorld-->
+    <!--MiContador></MiContador-->
+    <Model></Model>
+    <ModelComposition></ModelComposition>
+    <!--MiPrimerComponenteOptionsAPI>
     </MiPrimerComponenteOptionsAPI>
     <MiPrimerComponenteCompositionAPI>
-    </MiPrimerComponenteCompositionAPI>
+    </MiPrimerComponenteCompositionAPI-->
   </div>
 </template>
 <script setup lang="ts">
